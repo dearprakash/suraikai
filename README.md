@@ -1,6 +1,6 @@
 # Gatekeeper Wiki
 
-![Gatekeeper](/content/assets/Gradient_Dark_Logo.png)
+![Gatekeeper](/content/assets/suraikai-logo.png)
 
 Welcome to the GitHub Repository for https://www.gatekeeper.wiki a fanmade Wiki made by someone passionate about roguelike games.
 
