@@ -6,29 +6,41 @@
       <description>Last 10 notes on Suraikai</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Cary Cooper</title>
-    <link>https://suraikai.praka.sh/Authors/Cary-Cooper</link>
-    <guid>https://suraikai.praka.sh/Authors/Cary-Cooper</guid>
-    <description>📚 How to deal with Stress.</description>
-    <pubDate>Tue, 04 Feb 2025 15:33:42 GMT</pubDate>
-  </item><item>
-    <title>Stephen Palmer</title>
-    <link>https://suraikai.praka.sh/Authors/Stephen-Palmer</link>
-    <guid>https://suraikai.praka.sh/Authors/Stephen-Palmer</guid>
-    <description>📚 How to deal with Stress.</description>
-    <pubDate>Tue, 04 Feb 2025 15:33:24 GMT</pubDate>
-  </item><item>
-    <title>Welcome to the Suraikai</title>
-    <link>https://suraikai.praka.sh/</link>
-    <guid>https://suraikai.praka.sh/</guid>
-    <description>What is it? Reading log, book summaries, and other things.</description>
-    <pubDate>Tue, 04 Feb 2025 13:55:32 GMT</pubDate>
+    <title>Psychology</title>
+    <link>https://suraikai.praka.sh/Psychology</link>
+    <guid>https://suraikai.praka.sh/Psychology</guid>
+    <description></description>
+    <pubDate>Wed, 05 Feb 2025 09:32:19 GMT</pubDate>
   </item><item>
     <title>📚 How to deal with Stress</title>
     <link>https://suraikai.praka.sh/Book-Summary/%F0%9F%93%9A-How-to-deal-with-Stress</link>
     <guid>https://suraikai.praka.sh/Book-Summary/%F0%9F%93%9A-How-to-deal-with-Stress</guid>
     <description>...</description>
-    <pubDate>Thu, 09 Jan 2025 13:26:33 GMT</pubDate>
+    <pubDate>Wed, 05 Feb 2025 09:32:14 GMT</pubDate>
+  </item><item>
+    <title>Wellness</title>
+    <link>https://suraikai.praka.sh/Wellness</link>
+    <guid>https://suraikai.praka.sh/Wellness</guid>
+    <description></description>
+    <pubDate>Wed, 05 Feb 2025 09:30:30 GMT</pubDate>
+  </item><item>
+    <title>Welcome to the Suraikai</title>
+    <link>https://suraikai.praka.sh/</link>
+    <guid>https://suraikai.praka.sh/</guid>
+    <description>What is it? Reading log, book summaries, and other things.</description>
+    <pubDate>Tue, 04 Feb 2025 17:07:19 GMT</pubDate>
+  </item><item>
+    <title>Stephen Palmer</title>
+    <link>https://suraikai.praka.sh/Authors/Stephen-Palmer</link>
+    <guid>https://suraikai.praka.sh/Authors/Stephen-Palmer</guid>
+    <description>📚 How to deal with Stress.</description>
+    <pubDate>Tue, 04 Feb 2025 15:34:09 GMT</pubDate>
+  </item><item>
+    <title>Cary Cooper</title>
+    <link>https://suraikai.praka.sh/Authors/Cary-Cooper</link>
+    <guid>https://suraikai.praka.sh/Authors/Cary-Cooper</guid>
+    <description>📚 How to deal with Stress.</description>
+    <pubDate>Tue, 04 Feb 2025 15:34:04 GMT</pubDate>
   </item>
     </channel>
   </rss>
