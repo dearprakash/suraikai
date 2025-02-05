@@ -4,6 +4,7 @@ Title: How to Deal with Stress
 Date: 2025-01-08-Wednesday
 ---
 - Tags: [[Wellness]]
+- Genre: [[Psychology]]
 - Authors: [[Stephen Palmer]], [[Cary Cooper]]
 
 ![[dealwithstress.jpg]]
